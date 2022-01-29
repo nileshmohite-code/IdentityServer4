@@ -38,3 +38,43 @@ E:\Study and Professional\NILESH MOHITE\Implimentation\Security\IdentityServer\C
 E:\Study and Professional\NILESH MOHITE\Implimentation\Security\IdentityServer\Code\quickstart\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.dll
 E:\Study and Professional\NILESH MOHITE\Implimentation\Security\IdentityServer\Code\quickstart\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.pdb
 E:\Study and Professional\NILESH MOHITE\Implimentation\Security\IdentityServer\Code\quickstart\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.genruntimeconfig.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.exe
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.deps.json
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.runtimeconfig.json
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.runtimeconfig.dev.json
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\identityserver.pdb
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.csproj.AssemblyReference.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.AssemblyInfoInputs.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.AssemblyInfo.cs
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.csproj.CoreCompileInputs.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\staticwebassets\identityserver.StaticWebAssets.Manifest.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.RazorTargetAssemblyInfo.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.csproj.CopyComplete
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.dll
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.pdb
+C:\Users\nilesh\source\repos\nileshmohite-code\src\identityserver\obj\Debug\netcoreapp3.1\identityserver.genruntimeconfig.cache

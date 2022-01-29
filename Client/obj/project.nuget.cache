@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RY+u6k53WH+FKW01Q7eZRfAfUska9xS38kuripUHchmg1OStNKsWEal70ScFQVDatWx88/UI1F8go0JxkQkv5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilesh\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\nilesh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

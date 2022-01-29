@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj": {}
+    "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj": {}
   },
   "projects": {
-    "E:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj": {
+    "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj",
+        "projectUniqueName": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj",
         "projectName": "identityserver",
-        "projectPath": "E:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj",
+        "projectPath": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj",
         "packagesPath": "C:\\Users\\nilesh\\.nuget\\packages\\",
-        "outputPath": "E:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\obj\\",
+        "outputPath": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

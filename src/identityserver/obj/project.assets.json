@@ -3691,11 +3691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj",
+      "projectUniqueName": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj",
       "projectName": "identityserver",
-      "projectPath": "e:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\identityserver.csproj",
+      "projectPath": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\identityserver.csproj",
       "packagesPath": "C:\\Users\\nilesh\\.nuget\\packages\\",
-      "outputPath": "e:\\Study and Professional\\NILESH MOHITE\\Implimentation\\Security\\IdentityServer\\Code\\quickstart\\src\\identityserver\\obj\\",
+      "outputPath": "C:\\Users\\nilesh\\source\\repos\\nileshmohite-code\\src\\identityserver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

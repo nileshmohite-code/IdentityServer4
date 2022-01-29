@@ -14,6 +14,17 @@ builder.Services.AddAuthentication("Bearer")
                };
            });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddAuthorization(option => {
+
+    option.AddPolicy("APIProduct1Scope", policy => {
+
+        policy.RequireAuthenticatedUser();
+        policy.RequireClaim("scope", "APIProduct1");
+
+    });
+
+});
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -37,7 +48,9 @@ app.UseAuthorization();
 
 app.UseEndpoints(endpoints =>
 {
-    endpoints.MapControllers();
+    endpoints.MapControllers()
+    .RequireAuthorization("APIProduct1Scope");
+    
 });
 
 

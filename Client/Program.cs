@@ -27,7 +27,7 @@ namespace Client
                 Address = disco.TokenEndpoint,
                 ClientId = "client",
                 ClientSecret = "topsecret",
-                Scope = "SecureAPIByNiluniverse"
+                Scope = "APIProduct1"
             });
 
             if (tokenResponse.IsError)

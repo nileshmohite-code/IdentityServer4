@@ -31,3 +31,4 @@ C:\Users\nilesh\source\repos\nileshmohite-code\Api\obj\Debug\net6.0\Api.dll
 C:\Users\nilesh\source\repos\nileshmohite-code\Api\obj\Debug\net6.0\ref\Api.dll
 C:\Users\nilesh\source\repos\nileshmohite-code\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\nilesh\source\repos\nileshmohite-code\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\nilesh\source\repos\nileshmohite-code\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
